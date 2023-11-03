@@ -52,7 +52,7 @@ import QueueBHW from './pages/Queue/QueueBHW';
 import ImmunizationResidentPage from './pages/Immunization/ImmunizationResidentPage';
 import PrivateRoutes from './utils/PrivateRoutes';
 
-axios.defaults.baseURL = 'https://keen-bouman.108-61-201-27.plesk.page/';
+axios.defaults.baseURL = 'https://talambanhealthconnect.onrender.com';
 
 function App() {
 
